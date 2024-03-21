@@ -56,6 +56,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - National Climate Change Adaptation Programme until 2030 and its Action Plan, 2023: (tbd)
 
 - Energy policy 
+    - <b> Energy Strategy 2050 </b>: https://midr.gov.md/files/shares/Concept_Strategia_Enenergetica__act__.pdf 
     - <b> Energy Strategy of the Republic of Moldova until 2030 </b>: http://lex.justice.md/md/346670/
     - Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
 
