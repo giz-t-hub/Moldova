@@ -32,7 +32,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - <b> Mobility Strategy 2030 </b> (upcoming)
 - General
   - <b> National Development Strategy </b>: https://gov.md/sites/default/files/document/attachments/intr40_12_0.pdf
-  - <b> National Program for the development of the cities-growth poles in the Republic of Moldova for the years 2021-2027 // Cu privire la aprobarea Programului Național de dezvoltare a orașelor-poli de creștere în Republica Moldova (2021-2027) </b>: https://gov.md/sites/default/files/document/attachments/subiect15_.pdf
+
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -62,6 +62,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
 
 ### Urban and regional development <a name="urban"></a> 
+
+-  <b> National Program for the development of the cities-growth poles in the Republic of Moldova for the years 2021-2027 // Cu privire la aprobarea Programului Național de dezvoltare a orașelor-poli de creștere în Republica Moldova (2021-2027) </b>: https://gov.md/sites/default/files/document/attachments/subiect15_.pdf
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
