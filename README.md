@@ -141,7 +141,8 @@ Contributors:
 - Tuan Do: tuan.do@giz.de
 - Lena Plikat lena.plikat@giz.de
 - Sergiu Gradinaru
+- Anastasia Stefanita
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of January 2024)
+- (as of May 2024)
