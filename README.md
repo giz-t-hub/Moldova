@@ -63,7 +63,19 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Urban and regional development <a name="urban"></a> 
 
--  <b> National Program for the development of the cities-growth poles in the Republic of Moldova for the years 2021-2027 // Cu privire la aprobarea Programului Național de dezvoltare a orașelor-poli de creștere în Republica Moldova (2021-2027) </b>: https://gov.md/sites/default/files/document/attachments/subiect15_.pdf
+-  <b> National Program for the development of the cities-growth poles in the Republic of Moldova for the years 2021-2027 </b> // Cu privire la aprobarea Programului Național de dezvoltare a orașelor-poli de creștere în Republica Moldova (2021-2027) : https://gov.md/sites/default/files/document/attachments/subiect15_.pdf
+-  <b>  National Regional Development Strategy 2022-2028 (Government Decision no. 40/2022)	</b> //	Hotărârea Guvernului Nr. 40 din 26.01.2022 cu privire la aprobarea Strategiei naționale de dezvoltare regională a Republicii Moldova pentru anii 2022-2028: https://www.legis.md/cautare/getResults?doc_id=135227&lang=ro# 
+- <b> National program for the development of growth poles cities in the Republic of Moldova for the years 2021-2027 
+(Government Decision no.916/2020) </b> 	//	Hotărârea Guvernului Nr. 916 din 16.12.2020 cu privire la aprobarea Programului naţional de dezvoltare a oraşelor-poli de creştere în Republica Moldova pentruhttps://www.legis.md/cautare/getResults?doc_id=135185&lang=ro anii 2021-2027: https://www.legis.md/cautare/getResults?doc_id=135185&lang=ro# 
+- <b>  National Local Development Program "European Village" for the years 2024 – 2028 (Government Decision no. 216/2024) </b> // 	Hotărârea Guvernului Nr. 216 din 26.03.2024 cu privire la aprobarea Programului national de dezvoltare locală „Satul European” pentru anii 2024 – 2028: https://www.legis.md/cautare/getResults?doc_id=143107&lang=ro 
+- <b>  Law no. 438/2006 regarding regional development in the Republic of Moldova </b>  // Legea Nr. 438 din 28.12.2006 privind dezvoltarea regională în Republica Moldova:
+https://www.legis.md/cautare/getResults?doc_id=107434&lang=ro 
+- <b> Government Decision no. 127/2008 regarding the measures to implement Law no. 438/2006 on regional development in the Republic of Moldova </b> // Hotărârea Guvernului Nr. 127 din 08.02.2008 cu privire la măsurile de realizare a Legii Nr. 438 din 28.12.2006 privind dezvoltarea regională în Republica Moldova: https://www.legis.md/cautare/getResults?doc_id=69649&lang=ro 
+- <b> Law no. 27/2022 on the National Fund for Regional and Local Development (NFRLD) </b> // Legea Nr. 27 din 10.02.2022 privind Fondul național pentru dezvoltare regională și locală: https://www.legis.md/cautare/getResults?doc_id=130108&lang=ro
+- <b> Regulation on the management of the financial means of the National Fund for Regional and Local Development (Government Decision no. 152/2022) </b> // Hotărârea Guvernului Nr. 152 din 09.03.2022  cu privire la aprobarea Regulamentului privind gestionarea mijloacelor financiare ale Fondului național pentru dezvoltarea regională și locală: https://www.legis.md/cautare/getResults?doc_id=130345&lang=ro 
+-  <b> Single Programming Document for the period 2022-2024 (Government Decision no. 23/2022) </b> // Hotărârea Guvernului Nr. 23 din 10.01.2022 cu privire la Documentul Unic de Program pentru anii 2022-2024: https://www.legis.md/cautare/getResults?doc_id=129488&lang=ro 
+
+
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
