@@ -75,6 +75,11 @@ https://www.legis.md/cautare/getResults?doc_id=107434&lang=ro
 - <b> Regulation on the management of the financial means of the National Fund for Regional and Local Development (Government Decision no. 152/2022) </b> // Hotărârea Guvernului Nr. 152 din 09.03.2022  cu privire la aprobarea Regulamentului privind gestionarea mijloacelor financiare ale Fondului național pentru dezvoltarea regională și locală: https://www.legis.md/cautare/getResults?doc_id=130345&lang=ro 
 -  <b> Single Programming Document for the period 2022-2024 (Government Decision no. 23/2022) </b> // Hotărârea Guvernului Nr. 23 din 10.01.2022 cu privire la Documentul Unic de Program pentru anii 2022-2024: https://www.legis.md/cautare/getResults?doc_id=129488&lang=ro 
 
+- Reports:
+  - <b> Progress report on the implementation of the National Program for the Development of Growth Pole Cities in the Republic of Moldova for the years 2021-2027 (reporting period 2021) </b> / Raport de progres privind implementare Programului național de dezvoltare a orașelor poli de creștere în perioada anului 2021: 
+https://midr.gov.md/files/shares/Raport_implementare_PN_ora__e_poli_de_cre__tere.pdf 
+  - <b> Progress report on the implementation of the National Program for the Development of Growth Pole Cities in the Republic of Moldova for the years 2021-2027 (reporting period 2023) </b> / Raportul de progres de implementare a Programului național de dezvoltare a orașelor-poli de creștere în Republica Moldova pentru anii 2021-2027 (perioada de raportare 2023): https://midr.gov.md/files/shares/Raportul_de_progres_privind_implementarea_Programului_na__ional_de_dezvoltare_a_ora__elor_poli_de_cre__tere___n_perioada_anului_2023.pdf 
+  - <b> Progress report on the implementation of the National Regional Development Strategy 2022 – 2028, for the year 2022 </b> / Raport de progres privind implementarea Strategiei naționale de dezvoltare regională 2022 – 2028, pentru anul 2022: https://midr.gov.md/files/shares/Raport_SNDR_2022__.pdf 
 
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
@@ -120,6 +125,8 @@ https://www.legis.md/cautare/getResults?doc_id=107434&lang=ro
 - <b>  EBRD Country Strategy Moldova 2023 - 2028 </b> : https://www.ebrd.com/news/2023/ebrd-approves-new-moldova-country-strategy.html
 
 ### Data <a name="data"></a>
+
+- GIS-Local: https://gislocal.md/#/ - it is a government platform with a Local Level Geographical Information System for Local Public Administrations in the Republic of Moldova, intended for the management and publication of spatial data of public interest. (Government Decision No. 36/2024 regarding the approval of the Concept of the State Geographical Information System at the local level for the local public administration authorities and the Regulation of the information resource formed by the State Geographical Information System at the local level for the local public administration authorities (https://www.legis.md/cautare/getResults?doc_id=141619&lang=ro))
 
 - NATIONAL BUREAU OF STATISTICS OF THE REPUBLIC OF MOLDOVA: https://statistica.gov.md/
 - Pocket book: Moldova in figures, edition 2023: https://statistica.gov.md/en/the-statistical-pocket-book-moldova-in-figures-edition-2023-posted-on-12_60465.html
