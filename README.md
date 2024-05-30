@@ -63,7 +63,6 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Urban and regional development <a name="urban"></a> 
 
--  <b> National Program for the development of the cities-growth poles in the Republic of Moldova for the years 2021-2027 </b> // Cu privire la aprobarea Programului Național de dezvoltare a orașelor-poli de creștere în Republica Moldova (2021-2027) : https://gov.md/sites/default/files/document/attachments/subiect15_.pdf
 -  <b>  National Regional Development Strategy 2022-2028 (Government Decision no. 40/2022)	</b> //	Hotărârea Guvernului Nr. 40 din 26.01.2022 cu privire la aprobarea Strategiei naționale de dezvoltare regională a Republicii Moldova pentru anii 2022-2028: https://www.legis.md/cautare/getResults?doc_id=135227&lang=ro# 
 - <b> National program for the development of growth poles cities in the Republic of Moldova for the years 2021-2027 
 (Government Decision no.916/2020) </b> 	//	Hotărârea Guvernului Nr. 916 din 16.12.2020 cu privire la aprobarea Programului naţional de dezvoltare a oraşelor-poli de creştere în Republica Moldova pentruhttps://www.legis.md/cautare/getResults?doc_id=135185&lang=ro anii 2021-2027: https://www.legis.md/cautare/getResults?doc_id=135185&lang=ro# 
