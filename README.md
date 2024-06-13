@@ -114,6 +114,7 @@ https://midr.gov.md/files/shares/Raport_implementare_PN_ora__e_poli_de_cre__tere
 - <b> Promoting Clean Urban Public Transportation and Green Investment in Moldova </b> , OECD, 2019: https://www.oecd.org/environment/promoting-clean-urban-public-transportation-and-green-investment-in-moldova-31925aae-en.htm
 - <b> Sustainable Infrastructure for Low-carbon Development in the EU Eastern Partnership: Moldova’s sustainable infrastructure investments </b>, OECD, 2021: https://www.oecd-ilibrary.org/sites/986fb125-en/index.html?itemId=/content/component/986fb125-en#chapter-d1e16533 
 - <b> AD HOC Review Moldova </b> , IMF, 2022: https://www.imf.org/en/Publications/CR/Issues/2022/05/13/Republic-of-Moldova-Ad-Hoc-Review-Under-the-Extended-Credit-Facility-Request-for-517858
+- <b>Managementul transportului public urban în municipiul Chişinău</b>, 2006, *(Management of Urban Public Transport in the Municipality of Chișinău)*: https://bci.md/media/files/MTPUMC%20Final.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
