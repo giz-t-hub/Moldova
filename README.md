@@ -9,7 +9,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ------------------------------
 
-### Table of Contents
+### Table of Contents 
 
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
