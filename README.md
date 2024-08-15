@@ -107,6 +107,7 @@ https://midr.gov.md/files/shares/Raport_implementare_PN_ora__e_poli_de_cre__tere
 
 ### Studies and research papers <a name="studies-research"></a> 
 
+- <b> Road Safety Performance Review - Moldova </b>, UNECE, August 2024: https://unece.org/info/Transport/pub/393197 - *The RSPR Moldova identifies the most critical aspects for the development of the country’s national road safety system and offers recommendations for its improvement. The project team use a multipoint approach to assess the current road safety situation in Moldova. It includes analyses of the following topics: legal and institutional frameworks for road safety, the current road safety situation and trends, limitations in capacities, financial and human resources, gaps in the national legal and regulatory framework, compliance of Moldovan legislation with United Nations road safety-related legal instruments, and coordination among road safety stakeholders.*
 - <b> Moldova- Present situation analysis of the transport sector </b> , World Bank, 2007: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/540881468054253412/moldova-present-situation-analysis-of-the-transport-sector
 - <b> Analysis of public transport in Chisinau </b> , Technical University of Moldova, 2012: https://ibn.idsi.md/sites/default/files/imag_file/383-387_1.pdf
 - <b> How much Time Do Moldovans Spend Travelling </b> , UNDP, 2014: https://www.undp.org/moldova/publications/analytical-brief-10-how-much-time-do-moldovans-spend-travelling
