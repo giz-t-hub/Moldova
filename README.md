@@ -29,7 +29,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Transport
     - <b> Transport and Logistics Strategy 2013 - 2022 </b>: http://lex.justice.md/viewdoc.php?action=view&view=doc&id=350111&lang=1
-    - <b> Mobility Strategy 2030 </b> (upcoming)
+    - <b> STRATEGIA DE MOBILITATE 2030 </b> *(Mobility Strategy 2030)*: https://gov.md/sites/default/files/document/attachments/nu-418-midr-2024.pdf 
 - General
   - <b> National Development Strategy </b>: https://gov.md/sites/default/files/document/attachments/intr40_12_0.pdf
 
