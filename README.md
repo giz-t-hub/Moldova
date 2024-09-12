@@ -54,7 +54,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - <b> Draft National Energy and Climate Plan of Moldova </b>: https://www.energy-community.org/dam/jcr:f36a71ea-74bb-43c5-a67e-ccf1085e224f/NECP%20Moldova%20draft.pdf
       
 - Adaptation
-    - National Climate Change Adaptation Programme until 2030 and its Action Plan, 2023: (tbd)
+    - <b> National Climate Change Adaptation Programme until 2030 and its Action Plan, 2023 </b>: https://unfccc.int/sites/default/files/resource/NAP_Moldova_2024.pdf
 
 - Energy policy 
     - <b> Energy Strategy 2050 </b>: https://midr.gov.md/files/shares/Concept_Strategia_Enenergetica__act__.pdf 
